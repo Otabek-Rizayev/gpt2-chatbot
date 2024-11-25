@@ -31,5 +31,6 @@ trainer = Trainer(
 
 # Modelni o'qitish
 trainer.train()
-# Modelni saqlash
+# Model va tokenni saqlash
 trainer.save_model("./MyGPT2Chatbot")
+tokenizer.save_pretrained("./MyGPT2Chatbot")
