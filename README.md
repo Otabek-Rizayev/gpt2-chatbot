@@ -1,7 +1,7 @@
-# gpt2-chatbot
+# GPT2-Chatbot
 GPT(Generative Pre-Trained Transformer) model Chatbot
 
-# Usage
+## Usage
 ```
 pip install -r requirements.txt
 ```
