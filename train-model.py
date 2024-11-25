@@ -1,4 +1,5 @@
 from transformers import GPT2LMHeadModel, Trainer, TrainingArguments
+from tokenization import tokenized_datasets, tokenizer
 
 # GPT-2 modelini yuklash
 model = GPT2LMHeadModel.from_pretrained("gpt2")
