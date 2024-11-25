@@ -1,5 +1,6 @@
 # GPT2-Chatbot
-GPT(Generative Pre-Trained Transformer) model Chatbot
+GPT-2 Chatbot in Uzbek language.
+O'zbek tilidagi GPT-2 Chatbot.
 
 ## Usage
 ```
