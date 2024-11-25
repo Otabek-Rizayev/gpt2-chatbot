@@ -1,5 +1,4 @@
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
-from train_model import tokenizer
 
 # Sozlangan modelni yuklash
 model = GPT2LMHeadModel.from_pretrained("./MyGPT2Chatbot")
