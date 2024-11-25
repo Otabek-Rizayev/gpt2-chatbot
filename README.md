@@ -5,3 +5,7 @@ GPT(Generative Pre-Trained Transformer) model Chatbot
 ```
 pip install -r requirements.txt
 ```
+```
+# Run App
+python main.py
+```
